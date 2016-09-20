@@ -1,6 +1,6 @@
 //
-//  TodoAppUITests.swift
-//  TodoAppUITests
+//  SwiftTestUITests.swift
+//  SwiftTestUITests
 //
 //  Created by Seiya Kurokome on 2016/09/20.
 //  Copyright © 2016年 Seiya Kurokome. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class TodoAppUITests: XCTestCase {
+class SwiftTestUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()

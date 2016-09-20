@@ -1,15 +1,15 @@
 //
-//  TodoAppTests.swift
-//  TodoAppTests
+//  SwiftTestTests.swift
+//  SwiftTestTests
 //
 //  Created by Seiya Kurokome on 2016/09/20.
 //  Copyright © 2016年 Seiya Kurokome. All rights reserved.
 //
 
 import XCTest
-@testable import TodoApp
+@testable import SwiftTest
 
-class TodoAppTests: XCTestCase {
+class SwiftTestTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

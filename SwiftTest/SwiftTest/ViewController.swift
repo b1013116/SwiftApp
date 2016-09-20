@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  TodoApp
+//  SwiftTest
 //
 //  Created by Seiya Kurokome on 2016/09/20.
 //  Copyright © 2016年 Seiya Kurokome. All rights reserved.
